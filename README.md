@@ -40,8 +40,8 @@ Nick Clear
 https://github.com/nmclear
 
 David Yeung
-@yeungpirate
-https://github.com/yeungpirate
+@davidyeungcoding
+https://github.com/davidyeungcoding
 
 Nirav Patel
 @nrvpatel3
